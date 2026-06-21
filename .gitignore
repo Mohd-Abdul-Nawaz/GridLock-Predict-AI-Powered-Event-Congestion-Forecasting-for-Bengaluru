@@ -22,16 +22,27 @@ Thumbs.db
 .idea/
 
 # Uploads & Generated
-static/uploads/
+theme 2/static/uploads/
 models/
+*.pt
+*.onnx
+
+# Debug / Temp
 ocr_debug.txt
 debug_crops/
 debug_plates/
 debug_vehicles/
 
-# Large files (not for repo)
-yolov8n.pt
-*.onnx
+# Presentation files (not code)
+theme 2/DEMO_LINK_OPTIONS.md
+theme 2/Pitch_Deck_Theme2.pptx
+theme 2/VIDEO_SCRIPT.md
+theme 2/PUSH_TO_GITHUB.md
 
-# Temp files
-*.tmp
+# Image files in root
+*.jpeg
+*.jpg
+*.png
+
+# Other
+files.txt
