@@ -38,11 +38,3 @@ theme 2/DEMO_LINK_OPTIONS.md
 theme 2/Pitch_Deck_Theme2.pptx
 theme 2/VIDEO_SCRIPT.md
 theme 2/PUSH_TO_GITHUB.md
-
-# Image files in root
-*.jpeg
-*.jpg
-*.png
-
-# Other
-files.txt
