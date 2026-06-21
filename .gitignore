@@ -23,7 +23,7 @@ Thumbs.db
 
 # Uploads & Generated
 theme 2/static/uploads/
-models/
+/models/
 *.pt
 *.onnx
 
