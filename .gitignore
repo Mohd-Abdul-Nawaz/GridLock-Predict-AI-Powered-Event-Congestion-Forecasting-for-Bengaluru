@@ -33,6 +33,10 @@ debug_crops/
 debug_plates/
 debug_vehicles/
 
+# Keep only theme 2 in the repo
+theme 1/
+theme 3/
+
 # Presentation files (not code)
 theme 2/DEMO_LINK_OPTIONS.md
 theme 2/Pitch_Deck_Theme2.pptx
